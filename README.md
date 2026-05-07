@@ -14,5 +14,5 @@ Die Abgrenzung der Wohngebiete erfolgt unabhängig von den LOR. Industriegebiete
 
 ## Gitter Choroplethenkarte | EP02
 > Darstellung von Daten in Gittern, hierbei Rechteckig/Quadratisch oder mit Hexagonen
->
-> https://github.com/endarlikeCTRL/DTM_UE_ALL/blob/main/blubraster.png
+
+https://github.com/endarlikeCTRL/DTM_UE_ALL/blob/main/blubraster.png
