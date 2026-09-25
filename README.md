@@ -15,7 +15,8 @@ Die verschiedenen Methoden stellen die Bevölkerung auf Ebene der LOR dar. Dabei
 
 Die Abgrenzung der Wohngebiete erfolgt unabhängig von den LOR. Industriegebiete ohne oder mit nur wenigen Einwohnern werden dabei ausgeklammert, um Verzerrungen bei der Darstellung von Bevölkerungsdichten sowie bei der Bewertung von Wohnraumpotenzialen zu vermeiden.
 
-## Gitter Choroplethenkarte | EP02
+## Gitter Choroplethenkarte | EP02/EP03
 > Darstellung von Daten in Gittern, hierbei Rechteckig/Quadratisch oder mit Hexagonen
+> Hier Repräsentiert von Sakurablüten, die je nach Anzahl der Sakurabäume pro Gitter ihre größe variieren.
 
 <img src="https://github.com/endarlikeCTRL/DTM_UE_ALL/blob/main/blubraster.png"/>
