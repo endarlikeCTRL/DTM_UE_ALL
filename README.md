@@ -10,6 +10,9 @@ Die verschiedenen Methoden stellen die Bevölkerung auf Ebene der LOR dar. Dabei
 |----------------------------|--------------------------------|-----------------------------|
 |Nack LOR                    |Relativ                         |Nach Wohngebieten            |
 
+<img width="1297" height="915" alt="DTM1" src="https://github.com/user-attachments/assets/2409805d-1a05-4f1d-9227-9a83027db545" />
+
+
 Die Abgrenzung der Wohngebiete erfolgt unabhängig von den LOR. Industriegebiete ohne oder mit nur wenigen Einwohnern werden dabei ausgeklammert, um Verzerrungen bei der Darstellung von Bevölkerungsdichten sowie bei der Bewertung von Wohnraumpotenzialen zu vermeiden.
 
 ## Gitter Choroplethenkarte | EP02
