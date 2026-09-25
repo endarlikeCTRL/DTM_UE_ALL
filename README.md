@@ -20,3 +20,8 @@ Die Abgrenzung der Wohngebiete erfolgt unabhängig von den LOR. Industriegebiete
 > Hier Repräsentiert von Sakurablüten, die je nach Anzahl der Sakurabäume pro Gitter ihre größe variieren.
 
 <img src="https://github.com/endarlikeCTRL/DTM_UE_ALL/blob/main/blubraster.png"/>
+
+## Tilemaps | EP06
+Das Erzeugen von Tilemaps, und einem Verspielten, Klemmbausteinartigem muster andhand von Deutschland, hierbei wurden SRTM-Rasterdaten eingelesen und mit dem Erzeugtem Gitteer vernetzt. Dabei wurde der Mittelwert der Höhe pro Kachel Analysiert.
+
+Die Darstellung ist Ebenenhaft, um Schatten der Höhenschichten zu Simulieren.
