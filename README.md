@@ -33,7 +33,7 @@ Die Darstellung ist Ebenenhaft, um Schatten der Höhenschichten zu Simulieren.
 Für die Aufgabe wurden aus der Meteormap-Datenbank geeignete Beobachtungsdaten zu den **Leoniden im November** gefiltert. Dabei wurden die Daten der Station **DE000K** verwendet und in QGIS weiterverarbeitet.
 Die Anfangs- und Endkoordinaten der beobachteten Meteore wurden als Linien dargestellt und in das verwendete Koordinatensystem **EPSG:5243** transformiert. Anschließend wurden die Meteorbahnen grafisch als sich verjüngende, zum Ende hin transparente Linien dargestellt.
 
-Durch die zeitliche Aufbereitung der Beobachtungen konnte anschließend eine **Animation der Meteorereignisse** erstellt werden. Die einzelnen QGIS-Ausgaben wurden dafür als PNG-Dateien exportiert und anschließend zu einer GIF-Animation mit einer Anzeigedauer von zwei Sekunden pro Bild zusammengefügt.
+Durch die zeitliche Aufbereitung der Beobachtungen konnte anschließend eine **Animation der Meteorereignisse** erstellt werden. Die einzelnen QGIS-Ausgaben wurden dafür als PNG-Dateien exportiert und anschließend zu einer GIF-Animation zusammengefügt.
 
 
 <img width="1920" height="1080" alt="meteors_animation" src="https://github.com/user-attachments/assets/32b397e8-44d9-42f0-b4a3-577942977284" />
