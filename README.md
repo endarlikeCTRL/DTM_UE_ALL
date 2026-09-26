@@ -25,3 +25,5 @@ Die Abgrenzung der Wohngebiete erfolgt unabhängig von den LOR. Industriegebiete
 Das Erzeugen von Tilemaps, und einem Verspielten, Klemmbausteinartigem muster andhand von Deutschland, hierbei wurden SRTM-Rasterdaten eingelesen und mit dem Erzeugtem Gitteer vernetzt. Dabei wurde der Mittelwert der Höhe pro Kachel Analysiert.
 
 Die Darstellung ist Ebenenhaft, um Schatten der Höhenschichten zu Simulieren.
+
+<img width="2480" height="3507" alt="Tilemaps06" src="https://github.com/user-attachments/assets/4a1a0f74-8337-4ca7-890e-08ae2fc8f788" />
