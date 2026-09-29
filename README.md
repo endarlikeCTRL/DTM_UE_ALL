@@ -53,6 +53,13 @@ Für die farbliche Gestaltung der Windvisualisierung wurde **Vincent van Goghs �
 > 
 <img width="1280" height="860" alt="winds_animateboring" src="https://github.com/user-attachments/assets/b51b3256-46ba-4729-8ea0-f45803652a7f" />
 
+## EP.09 | 3D-Gebäudemodelle
+
+### 2,5D-Gebäudevisualisierung
+
+Für die Visualisierung wurden zwei LoD2-Gebäudekacheln zusammengeführt und als 3D-Geometrien in einem GeoPackage gespeichert. Anschließend wurden die Gebäude in QGIS als 2,5D-Modell dargestellt und anhand ihrer Gebäudehöhe mit einem Farbgradienten visualisiert. Dadurch entsteht eine räumliche Darstellung, bei der sowohl die Gebäudehöhe als auch die Unterschiede zwischen den Gebäuden deutlich erkennbar sind.
+
+
 
 
 
