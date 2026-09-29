@@ -1,7 +1,7 @@
 # DTM Projekte
 #### SoSe 26
 
-## Dasymetrische Choroplethenkarte | EP01
+# EP01 | Dasymetrische Choroplethenkarte
 > Kleines Einmaleins der thematischen Kartographie
 
 Die verschiedenen Methoden stellen die Bevölkerung auf Ebene der LOR dar. Dabei wurde die Art der Darstellung der Kennzahlen angepasst: Es werden sowohl absolute Bevölkerungszahlen als auch die Bevölkerungsdichte pro Quadratkilometer nach LOR sowie die Bevölkerungsdichte pro Quadratkilometer nach Wohngebieten ausgewiesen.
@@ -15,13 +15,20 @@ Die verschiedenen Methoden stellen die Bevölkerung auf Ebene der LOR dar. Dabei
 
 Die Abgrenzung der Wohngebiete erfolgt unabhängig von den LOR. Industriegebiete ohne oder mit nur wenigen Einwohnern werden dabei ausgeklammert, um Verzerrungen bei der Darstellung von Bevölkerungsdichten sowie bei der Bewertung von Wohnraumpotenzialen zu vermeiden.
 
-## Gitter Choroplethenkarte | EP02/EP03
+# EP02/EP03 | Gitter Choroplethenkarte
 > Darstellung von Daten in Gittern, hierbei Rechteckig/Quadratisch oder mit Hexagonen
 > Hier Repräsentiert von Sakurablüten, die je nach Anzahl der Sakurabäume pro Gitter ihre größe variieren.
 
 <img src="https://github.com/endarlikeCTRL/DTM_UE_ALL/blob/main/blubraster.png"/>
 
-## Tilemaps | EP06
+# EP.05 | Ursprung-Ziel-Karten
+
+Visualisierung des internationalen Studierendenaustauschs der BHT Berlin auf Basis von Daten des Referats Internationale Angelegenheiten. Die Karte nutzt eine auf Berlin zentrierte orthographische Azimutalprojektion, um die weltweiten Verbindungslinien realistisch darzustellen.
+
+<img width="1080" height="1080" alt="globee" src="https://github.com/user-attachments/assets/fc43fff8-0e9f-43b3-bc6b-849a535124e9" />
+
+
+# EP.06 Tilemaps | EP06
 Das Erzeugen von Tilemaps, und einem Verspielten, Klemmbausteinartigem muster anhand von Deutschland, hierbei wurden SRTM-Rasterdaten eingelesen und mit dem Erzeugtem Gitteer vernetzt. Dabei wurde der Mittelwert der Höhe pro Kachel Analysiert.
 
 Die Darstellung ist Ebenenhaft, um Schatten der Höhenschichten zu Simulieren.
@@ -29,7 +36,7 @@ Die Darstellung ist Ebenenhaft, um Schatten der Höhenschichten zu Simulieren.
 <img width="2480" height="3507" alt="Tilemaps06" src="https://github.com/user-attachments/assets/e05b0620-9b2d-4204-a4dc-1d9c8d98d533" />
 
 
-## EP.07 | Animation in QGIS
+# EP.07 | Animation in QGIS
 
 Für die Aufgabe wurden aus der Meteormap-Datenbank geeignete Beobachtungsdaten zu den **Leoniden im November** gefiltert. Dabei wurden die Daten der Station **DE000K** verwendet und in QGIS weiterverarbeitet.
 Die Anfangs- und Endkoordinaten der beobachteten Meteore wurden als Linien dargestellt und in das verwendete Koordinatensystem **EPSG:5243** transformiert. Anschließend wurden die Meteorbahnen grafisch als sich verjüngende, zum Ende hin transparente Linien dargestellt.
@@ -39,7 +46,7 @@ Durch die zeitliche Aufbereitung der Beobachtungen konnte anschließend eine **A
 
 <img width="1920" height="1080" alt="meteors_animation" src="https://github.com/user-attachments/assets/32b397e8-44d9-42f0-b4a3-577942977284" />
 
-## EP.08 | Mesh-Daten
+# EP.08 | Mesh-Daten
 
 In diesem Projekt werden Windgeschwindigkeiten und Windrichtungen für verschiedene Zeitpunkte in QGIS visualisiert und als zeitliche Animation dargestellt. Die Windvektoren zeigen dabei die räumliche Verteilung und Veränderung des Windes über mehrere Stunden.
 Für die farbliche Gestaltung der Windvisualisierung wurde **Vincent van Goghs „Sternennacht“** als visuelle Referenz verwendet. Die Farbtöne des Gemäldes wurden dabei als Farbpalette übernommen, um die Windbewegungen atmosphärisch und anschaulich darzustellen.
@@ -53,15 +60,15 @@ Für die farbliche Gestaltung der Windvisualisierung wurde **Vincent van Goghs �
 > 
 <img width="1280" height="860" alt="winds_animateboring" src="https://github.com/user-attachments/assets/b51b3256-46ba-4729-8ea0-f45803652a7f" />
 
-## EP.09 | 3D-Gebäudemodelle
+# EP.09 | 3D-Gebäudemodelle
 
-### 2,5D-Gebäudevisualisierung
+## 2,5D-Gebäudevisualisierung
 
 Für die Visualisierung wurden zwei LoD2-Gebäudekacheln zusammengeführt und als 3D-Geometrien in einem GeoPackage gespeichert. Anschließend wurden die Gebäude in QGIS als 2,5D-Modell dargestellt und anhand ihrer Gebäudehöhe mit einem Farbgradienten visualisiert. Dadurch entsteht eine räumliche Darstellung, bei der sowohl die Gebäudehöhe als auch die Unterschiede zwischen den Gebäuden deutlich erkennbar sind.
 
 <img width="1920" height="1357" alt="tddy" src="https://github.com/user-attachments/assets/70456f89-7915-4644-9634-e732417b51ef" />
 
-# oder doch lieber 3D?
+## oder doch lieber 3D?
 
 <img width="1567" height="304" alt="image" src="https://github.com/user-attachments/assets/a71f94d3-4888-4f61-a6bf-f6e421581060" />
 
