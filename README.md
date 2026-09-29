@@ -9,7 +9,6 @@ Die verschiedenen Methoden stellen die Bevölkerung auf Ebene der LOR dar. Dabei
 |Einfache Choroplethenkarte  |Dasymetrische Choroplethenkarte |Einfache Choroplethenkarte   |
 |----------------------------|--------------------------------|-----------------------------|
 |Nack LOR                    |Relativ                         |Nach Wohngebieten            |
-|----------------------------|--------------------------------|-----------------------------|
 |Stellt die absolute Bevölkerungszahl summiert pro Lebensweltlich orientiertem Raum (LOR) dar. Die Gesamtzahl wird dabei gleichmäßig über die gesamte administrative Fläche der jeweiligen Einheiten eingefärbt. | Zeigt die Bevölkerungsdichte bezogen auf die LOR-Flächen. Dadurch werden die Werte flächenbereinigt und ermöglichen einen besseren relativen Vergleich zwischen unterschiedlich großen Gebieten. | Visualisiert die Bevölkerungsdichte ausschließlich auf den tatsächlich bewohnten Flächen (Wohngebieten). Unbewohnte Flächen wie Parks, Industriegebiete oder Gewässer werden herausgefiltert, was eine realistischere räumliche Verteilung zeigt. |
 
 <img width="1297" height="915" alt="DTM1" src="https://github.com/user-attachments/assets/2409805d-1a05-4f1d-9227-9a83027db545" />
