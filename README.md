@@ -37,3 +37,20 @@ Durch die zeitliche Aufbereitung der Beobachtungen konnte anschließend eine **A
 
 
 <img width="1920" height="1080" alt="meteors_animation" src="https://github.com/user-attachments/assets/32b397e8-44d9-42f0-b4a3-577942977284" />
+
+## EP.08 | Mesh-Daten
+
+In diesem Projekt werden Windgeschwindigkeiten und Windrichtungen für verschiedene Zeitpunkte in QGIS visualisiert und als zeitliche Animation dargestellt. Die Windvektoren zeigen dabei die räumliche Verteilung und Veränderung des Windes über mehrere Stunden.
+Für die farbliche Gestaltung der Windvisualisierung wurde **Vincent van Goghs „Sternennacht“** als visuelle Referenz verwendet. Die Farbtöne des Gemäldes wurden dabei als Farbpalette übernommen, um die Windbewegungen atmosphärisch und anschaulich darzustellen.
+
+> Information: die Bilder sind zu groß, daher wurde ein GIF-Compress genutzt!
+
+
+
+> Zu viel Van Gogh? Vielleicht das hier?
+> 
+<img width="1280" height="860" alt="winds_animateboring" src="https://github.com/user-attachments/assets/b51b3256-46ba-4729-8ea0-f45803652a7f" />
+
+
+
+
