@@ -61,6 +61,11 @@ Für die Visualisierung wurden zwei LoD2-Gebäudekacheln zusammengeführt und al
 
 <img width="1920" height="1357" alt="tddy" src="https://github.com/user-attachments/assets/70456f89-7915-4644-9634-e732417b51ef" />
 
+# oder doch lieber 3D?
+
+<img width="1567" height="304" alt="image" src="https://github.com/user-attachments/assets/a71f94d3-4888-4f61-a6bf-f6e421581060" />
+
+
 
 
 
