@@ -59,6 +59,7 @@ Für die farbliche Gestaltung der Windvisualisierung wurde **Vincent van Goghs �
 
 Für die Visualisierung wurden zwei LoD2-Gebäudekacheln zusammengeführt und als 3D-Geometrien in einem GeoPackage gespeichert. Anschließend wurden die Gebäude in QGIS als 2,5D-Modell dargestellt und anhand ihrer Gebäudehöhe mit einem Farbgradienten visualisiert. Dadurch entsteht eine räumliche Darstellung, bei der sowohl die Gebäudehöhe als auch die Unterschiede zwischen den Gebäuden deutlich erkennbar sind.
 
+<img width="1920" height="1357" alt="tddy" src="https://github.com/user-attachments/assets/70456f89-7915-4644-9634-e732417b51ef" />
 
 
 
