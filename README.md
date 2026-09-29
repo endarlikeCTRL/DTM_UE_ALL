@@ -21,6 +21,13 @@ Die Abgrenzung der Wohngebiete erfolgt unabhängig von den LOR. Industriegebiete
 
 <img src="https://github.com/endarlikeCTRL/DTM_UE_ALL/blob/main/blubraster.png"/>
 
+# EP.04 | Value-By-Alpha Mapping
+
+Die Geometrien der 106 ungarischen Wahlkreise wurden ueber eine eindeutige ID mit den Wahldaten verknuepft und als GeoJSON aufbereitet. Die Hauptkarte nutzt eine Value-By-Alpha-Darstellung, bei der die Farbdeckung je nach der Staerke des Wahlsiegs variiert. Zudem wurden ein Inset fuer Budapest und zwei Choroplethenkarten fuer den Parteienvergleich im A3-Layout zusammengestellt.
+
+<img width="3507" height="2480" alt="ungarnwahlen" src="https://github.com/user-attachments/assets/bd2dba23-381d-4824-b450-78cc90fb9bad" />
+
+
 # EP.05 | Ursprung-Ziel-Karten
 
 Visualisierung des internationalen Studierendenaustauschs der BHT Berlin auf Basis von Daten des Referats Internationale Angelegenheiten. Die Karte nutzt eine auf Berlin zentrierte orthographische Azimutalprojektion, um die weltweiten Verbindungslinien realistisch darzustellen.
