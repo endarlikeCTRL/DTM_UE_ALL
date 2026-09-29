@@ -26,7 +26,8 @@ Das Erzeugen von Tilemaps, und einem Verspielten, Klemmbausteinartigem muster an
 
 Die Darstellung ist Ebenenhaft, um Schatten der Höhenschichten zu Simulieren.
 
-<img width="2480" height="3507" alt="Tilemaps06" src="https://github.com/user-attachments/assets/4a1a0f74-8337-4ca7-890e-08ae2fc8f788" />
+<img width="2480" height="3507" alt="Tilemaps06" src="https://github.com/user-attachments/assets/e05b0620-9b2d-4204-a4dc-1d9c8d98d533" />
+
 
 ## EP.07 | Animation in QGIS
 
@@ -45,6 +46,7 @@ Für die farbliche Gestaltung der Windvisualisierung wurde **Vincent van Goghs �
 
 > Information: die Bilder sind zu groß, daher wurde ein GIF-Compress genutzt!
 
+<img width="1201" height="807" alt="winds_animated_extended(1)(1)" src="https://github.com/user-attachments/assets/9e058c0d-a18e-4b33-b919-840819cc9ec7" />
 
 
 > Zu viel Van Gogh? Vielleicht das hier?
